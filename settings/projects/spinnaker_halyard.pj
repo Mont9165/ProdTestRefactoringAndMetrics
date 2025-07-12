@@ -1,0 +1,4 @@
+name=spinnaker_halyard
+abb=
+url=https://github.com/spinnaker/halyard
+branch=master

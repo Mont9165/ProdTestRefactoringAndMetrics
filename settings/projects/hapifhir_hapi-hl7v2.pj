@@ -1,0 +1,4 @@
+name=hapifhir_hapi-hl7v2
+abb=
+url=https://github.com/hapifhir/hapi-hl7v2
+branch=master

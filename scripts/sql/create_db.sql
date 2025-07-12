@@ -1,0 +1,1 @@
+create database trace_jit_db owner tjit;

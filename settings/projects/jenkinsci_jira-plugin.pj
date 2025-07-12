@@ -1,0 +1,4 @@
+name=jenkinsci_jira-plugin
+abb=
+url=https://github.com/jenkinsci/jira-plugin
+branch=master

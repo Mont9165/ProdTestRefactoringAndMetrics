@@ -1,0 +1,4 @@
+name=mysql_mysql-connector-j
+abb=
+url=https://github.com/mysql/mysql-connector-j
+branch=release/8.x

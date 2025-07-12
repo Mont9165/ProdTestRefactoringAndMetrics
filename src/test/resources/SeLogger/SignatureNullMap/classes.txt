@@ -1,0 +1,5 @@
+0,file:target/test-classes/,org/apache/commons/lang3/EnumUtilsTest,org/apache/commons/lang3/EnumUtilsTest,Normal,a1e96f29ceb14ce5bff82478a3d570f33f0ed502,Loader@3d4eac69:org/apache/commons/lang3/EnumUtilsTest
+1,file:target/test-classes/,org/apache/commons/lang3/Traffic,org/apache/commons/lang3/Traffic,Normal,5cd2907ee88442de97c39c14170f7ccf9d61567d,Loader@3d4eac69:org/apache/commons/lang3/Traffic
+2,file:target/test-classes/,org/apache/commons/lang3/TooMany,org/apache/commons/lang3/TooMany,Normal,71f113e553a2af44fbc844b8f60198c744a89499,Loader@3d4eac69:org/apache/commons/lang3/TooMany
+3,file:target/classes/,org/apache/commons/lang3/EnumUtils,org/apache/commons/lang3/EnumUtils,Normal,0d11cec2fec5d1b60d49462db08387f2c6f1f79c,Loader@3d4eac69:org/apache/commons/lang3/EnumUtils
+4,file:target/classes/,org/apache/commons/lang3/Validate,org/apache/commons/lang3/Validate,Normal,84acf94b0d31c35ce0445b57e50d65435a72ef8a,Loader@3d4eac69:org/apache/commons/lang3/Validate

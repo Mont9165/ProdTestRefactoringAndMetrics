@@ -1,0 +1,4 @@
+name=apache_maven-resolver
+abb=
+url=https://github.com/apache/maven-resolver
+branch=master

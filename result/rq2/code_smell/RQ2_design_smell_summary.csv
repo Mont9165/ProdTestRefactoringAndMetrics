@@ -1,0 +1,91 @@
+code_type,metric,refactoring_type,statistic,p_value,n_pairs,effect_size_r,delta_count,delta_mean,delta_std,delta_min,delta_25%,delta_50%,delta_75%,delta_max
+production,NOF,Unknown,4376487402938,0,5639865,0.05,5639865,-0.398,9.197,-616,-2,0,2,521
+production,NOPF,Unknown,173351807645,0,5639865,0.025,5639865,-0.125,5.626,-616,0,0,0,409
+production,NOM,Unknown,5365161343495,0,5639865,0.054,5639865,-0.774,16.299,-871,-3,0,3,1724
+production,NOPM,Unknown,5047652144854,0,5639865,0.04,5639865,-0.472,13.646,-648,-2,0,2,1156
+production,LOC,Unknown,6726880950357,0,5639865,0.055,5639865,-5.423,117.137,-3877,-31,-1,23,3929
+production,WMC,Unknown,5537651978374,0,5639865,0.066,5639865,-1.617,26.377,-1739,-6,0,4,3022
+production,NC,Unknown,201970063441,0,5639865,0.029,5639865,-0.036,1.691,-66,0,0,0,126
+production,DIT,Unknown,657866105657,0,5639865,-0.001,5639865,0.05,73.534,-23559,0,0,0,23567
+production,LCOM,Unknown,3938882531370,0,5639865,-0.035,5639865,0.024,0.917,-2,-0.5,0,0.75,2
+production,FANIN,Unknown,2958163176621,0,5639865,0.067,5639865,-0.769,15.348,-845,-2,0,1,678
+production,FANOUT,Unknown,4492910627580,0,5639865,-0.015,5639865,0.05,4.045,-180,-1,0,2,131
+production,Broken Hierarchy,Overall,157929643861,0,5639865,-0.004,5639865,0.001,0.385,-9,0,0,0,6
+production,Broken Hierarchy,Unknown,157929643861,0,5639865,-0.004,5639865,0.001,0.385,-9,0,0,0,6
+production,Broken Modularization,Overall,8748893933,0,5639865,0.017,5639865,-0.003,0.186,-2,0,0,0,2
+production,Broken Modularization,Unknown,8748893933,0,5639865,0.017,5639865,-0.003,0.186,-2,0,0,0,2
+production,Cyclic Hierarchy,Overall,218508,0,5639865,0.008,5639865,0,0.015,-2,0,0,0,2
+production,Cyclic Hierarchy,Unknown,218508,0,5639865,0.008,5639865,0,0.015,-2,0,0,0,2
+production,Cyclic-Dependent Modularization,Overall,31901642292,0,5639865,0.054,5639865,-0.011,0.263,-1,0,0,0,1
+production,Cyclic-Dependent Modularization,Unknown,31901642292,0,5639865,0.054,5639865,-0.011,0.263,-1,0,0,0,1
+production,Deep Hierarchy,Overall,5130,0,5639865,0.001,5639865,0,0.006,-2,0,0,0,1
+production,Deep Hierarchy,Unknown,5130,0,5639865,0.001,5639865,0,0.006,-2,0,0,0,1
+production,Deficient Encapsulation,Overall,140243361881,0,5639865,0.046,5639865,-0.014,0.377,-10,0,0,0,9
+production,Deficient Encapsulation,Unknown,140243361881,0,5639865,0.046,5639865,-0.014,0.377,-10,0,0,0,9
+production,Hub-like Modularization,Overall,2968992,0,5639865,0.006,5639865,0,0.026,-1,0,0,0,1
+production,Hub-like Modularization,Unknown,2968992,0,5639865,0.006,5639865,0,0.026,-1,0,0,0,1
+production,Imperative Abstraction,Overall,46146014,0.101,5639865,-0.001,5639865,0,0.049,-2,0,0,0,1
+production,Imperative Abstraction,Unknown,46146014,0.101,5639865,-0.001,5639865,0,0.049,-2,0,0,0,1
+production,Insufficient Modularization,Overall,51303117120,0,5639865,0.051,5639865,-0.012,0.3,-10,0,0,0,9
+production,Insufficient Modularization,Unknown,51303117120,0,5639865,0.051,5639865,-0.012,0.3,-10,0,0,0,9
+production,Missing Hierarchy,Overall,8561616,0,5639865,0.007,5639865,0,0.034,-2,0,0,0,1
+production,Missing Hierarchy,Unknown,8561616,0,5639865,0.007,5639865,0,0.034,-2,0,0,0,1
+production,Multifaceted Abstraction,Overall,53123829,0.4,5639865,0,5639865,0,0.052,-2,0,0,0,1
+production,Multifaceted Abstraction,Unknown,53123829,0.4,5639865,0,5639865,0,0.052,-2,0,0,0,1
+production,Multipath Hierarchy,Overall,50505286,0,5639865,0.009,5639865,0,0.053,-1,0,0,0,2
+production,Multipath Hierarchy,Unknown,50505286,0,5639865,0.009,5639865,0,0.053,-1,0,0,0,2
+production,Rebellious Hierarchy,Overall,424456420.5,0,5639865,0.027,5639865,-0.002,0.091,-1,0,0,0,1
+production,Rebellious Hierarchy,Unknown,424456420.5,0,5639865,0.027,5639865,-0.002,0.091,-1,0,0,0,1
+production,Unexploited Encapsulation,Overall,537966,0,5639865,-0.002,5639865,0,0.017,-2,0,0,0,1
+production,Unexploited Encapsulation,Unknown,537966,0,5639865,-0.002,5639865,0,0.017,-2,0,0,0,1
+production,Unnecessary Abstraction,Overall,35105977856,0,5639865,0.012,5639865,-0.002,0.261,-4,0,0,0,4
+production,Unnecessary Abstraction,Unknown,35105977856,0,5639865,0.012,5639865,-0.002,0.261,-4,0,0,0,4
+production,Unutilized Abstraction,Overall,1518500883836,0,5639865,-0.124,5639865,0.067,0.722,-36,0,0,1,45
+production,Unutilized Abstraction,Unknown,1518500883836,0,5639865,-0.124,5639865,0.067,0.722,-36,0,0,1,45
+production,Wide Hierarchy,Overall,107358284,0,5639865,0.011,5639865,0,0.063,-1,0,0,0,1
+production,Wide Hierarchy,Unknown,107358284,0,5639865,0.011,5639865,0,0.063,-1,0,0,0,1
+test,NOF,Unknown,922649281103,0,2603013,-0.08,2603013,0.415,7.232,-166,-1,0,2,284
+test,NOPF,Unknown,18818739186,0,2603013,-0.118,2603013,0.223,2.637,-47,0,0,0,275
+test,NOM,Unknown,1290870641218,0,2603013,-0.073,2603013,0.742,13.283,-460,-3,0,3,870
+test,NOPM,Unknown,1182254626912,0,2603013,-0.039,2603013,0.349,11.833,-460,-3,0,2,647
+test,LOC,Unknown,1553469515213,0,2603013,-0.036,2603013,3.016,107.039,-7688,-24,-1,23,2674
+test,WMC,Unknown,1208469365825,0,2603013,-0.148,2603013,2.066,18.395,-513,-3,0,5,1255
+test,NC,Unknown,46331787532,0,2603013,-0.024,2603013,0.053,3.141,-74,0,0,0,72
+test,DIT,Unknown,172242063549,0,2603013,0,2603013,-0.01,46.19,-23571,0,0,0,17675
+test,LCOM,Unknown,883307448165,0,2603013,0.047,2603013,-0.032,0.898,-2,-0.667,0,0.5,2
+test,FANIN,Unknown,267741335854,0,2603013,-0.191,2603013,1.306,9.645,-132,0,0,1,395
+test,FANOUT,Unknown,771272458036,0,2603013,0.123,2603013,-0.41,4.434,-107,-2,0,1,104
+test,Broken Hierarchy,Overall,67186154626,0,2603013,0.026,2603013,-0.009,0.489,-6,0,0,0,6
+test,Broken Hierarchy,Unknown,67186154626,0,2603013,0.026,2603013,-0.009,0.489,-6,0,0,0,6
+test,Broken Modularization,Overall,25048106.5,0,2603013,-0.061,2603013,0.004,0.077,-1,0,0,0,2
+test,Broken Modularization,Unknown,25048106.5,0,2603013,-0.061,2603013,0.004,0.077,-1,0,0,0,2
+test,Cyclic Hierarchy,Overall,1362,0,2603013,-0.018,2603013,0,0.013,-1,0,0,0,1
+test,Cyclic Hierarchy,Unknown,1362,0,2603013,-0.018,2603013,0,0.013,-1,0,0,0,1
+test,Cyclic-Dependent Modularization,Overall,2392409049,0,2603013,-0.12,2603013,0.019,0.218,-1,0,0,0,1
+test,Cyclic-Dependent Modularization,Unknown,2392409049,0,2603013,-0.12,2603013,0.019,0.218,-1,0,0,0,1
+test,Deep Hierarchy,Overall,15,0.317,2603013,0,2603013,0,0.002,-1,0,0,0,1
+test,Deep Hierarchy,Unknown,15,0.317,2603013,0,2603013,0,0.002,-1,0,0,0,1
+test,Deficient Encapsulation,Overall,20617384647,0,2603013,-0.064,2603013,0.016,0.346,-3,0,0,0,9
+test,Deficient Encapsulation,Unknown,20617384647,0,2603013,-0.064,2603013,0.016,0.346,-3,0,0,0,9
+test,Hub-like Modularization,Overall,633,0,2603013,-0.021,2603013,0,0.016,-1,0,0,0,1
+test,Hub-like Modularization,Unknown,633,0,2603013,-0.021,2603013,0,0.016,-1,0,0,0,1
+test,Imperative Abstraction,Overall,5877326,0,2603013,0.009,2603013,0,0.045,-1,0,0,0,1
+test,Imperative Abstraction,Unknown,5877326,0,2603013,0.009,2603013,0,0.045,-1,0,0,0,1
+test,Insufficient Modularization,Overall,7354837057,0,2603013,-0.096,2603013,0.02,0.278,-2,0,0,0,9
+test,Insufficient Modularization,Unknown,7354837057,0,2603013,-0.096,2603013,0.02,0.278,-2,0,0,0,9
+test,Missing Hierarchy,Overall,2247444,0,2603013,-0.012,2603013,0,0.036,-1,0,0,0,1
+test,Missing Hierarchy,Unknown,2247444,0,2603013,-0.012,2603013,0,0.036,-1,0,0,0,1
+test,Multifaceted Abstraction,Overall,6565064,0,2603013,0.006,2603013,0,0.045,-2,0,0,0,1
+test,Multifaceted Abstraction,Unknown,6565064,0,2603013,0.006,2603013,0,0.045,-2,0,0,0,1
+test,Multipath Hierarchy,Overall,5472112.5,0,2603013,-0.022,2603013,0.001,0.047,-1,0,0,0,2
+test,Multipath Hierarchy,Unknown,5472112.5,0,2603013,-0.022,2603013,0.001,0.047,-1,0,0,0,2
+test,Rebellious Hierarchy,Overall,1620308,0,2603013,-0.077,2603013,0.003,0.059,-1,0,0,0,2
+test,Rebellious Hierarchy,Unknown,1620308,0,2603013,-0.077,2603013,0.003,0.059,-1,0,0,0,2
+test,Unexploited Encapsulation,Overall,379050,0,2603013,0.008,2603013,0,0.023,-1,0,0,0,1
+test,Unexploited Encapsulation,Unknown,379050,0,2603013,0.008,2603013,0,0.023,-1,0,0,0,1
+test,Unnecessary Abstraction,Overall,7968973709,0,2603013,-0.004,2603013,0.001,0.263,-2,0,0,0,2
+test,Unnecessary Abstraction,Unknown,7968973709,0,2603013,-0.004,2603013,0.001,0.263,-2,0,0,0,2
+test,Unutilized Abstraction,Overall,191156136292,0,2603013,0.431,2603013,-0.22,0.706,-10,-1,0,0,42
+test,Unutilized Abstraction,Unknown,191156136292,0,2603013,0.431,2603013,-0.22,0.706,-10,-1,0,0,42
+test,Wide Hierarchy,Overall,20012883,0,2603013,-0.007,2603013,0,0.06,-1,0,0,0,1
+test,Wide Hierarchy,Unknown,20012883,0,2603013,-0.007,2603013,0,0.06,-1,0,0,0,1

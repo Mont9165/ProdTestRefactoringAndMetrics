@@ -1,0 +1,4 @@
+name=apache_parquet-mr
+abb=
+url=https://github.com/apache/parquet-mr
+branch=master

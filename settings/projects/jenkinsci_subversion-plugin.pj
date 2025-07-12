@@ -1,0 +1,4 @@
+name=jenkinsci_subversion-plugin
+abb=
+url=https://github.com/jenkinsci/subversion-plugin
+branch=master

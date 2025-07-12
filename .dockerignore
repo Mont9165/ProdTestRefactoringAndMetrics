@@ -1,0 +1,7 @@
+.git
+.gitignore
+.dockerignore
+target/
+*.log
+.idea/
+src/main/java/jp/ac/kyushu/ait/posl/analysis/

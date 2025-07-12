@@ -1,0 +1,4 @@
+name=jenkinsci_artifactory-plugin
+abb=
+url=https://github.com/jenkinsci/artifactory-plugin
+branch=master

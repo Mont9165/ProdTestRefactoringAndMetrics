@@ -1,0 +1,4 @@
+name=confluentinc_kafka-connect-hdfs
+abb=
+url=https://github.com/confluentinc/kafka-connect-hdfs
+branch=master

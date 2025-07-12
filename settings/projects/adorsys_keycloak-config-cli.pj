@@ -1,0 +1,4 @@
+name=adorsys_keycloak-config-cli
+abb=
+url=https://github.com/adorsys/keycloak-config-cli
+branch=main

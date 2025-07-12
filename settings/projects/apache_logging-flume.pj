@@ -1,0 +1,4 @@
+name=apache_logging-flume
+abb=
+url=https://github.com/apache/logging-flume
+branch=trunk

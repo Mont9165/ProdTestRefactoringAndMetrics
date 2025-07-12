@@ -1,0 +1,7 @@
+CREATE SCHEMA test;
+CREATE SCHEMA trace;
+CREATE SCHEMA run;
+CREATE SCHEMA commit;
+CREATE SCHEMA refactoring;
+CREATE SCHEMA source;
+CREATE SCHEMA buildfile;

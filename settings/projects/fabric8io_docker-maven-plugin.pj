@@ -1,0 +1,4 @@
+name=fabric8io_docker-maven-plugin
+abb=
+url=https://github.com/fabric8io/docker-maven-plugin
+branch=master

@@ -1,0 +1,4 @@
+name=spotbugs_sonar-findbugs
+abb=
+url=https://github.com/spotbugs/sonar-findbugs
+branch=master

@@ -1,0 +1,4 @@
+name=openhab_org.openhab.binding.zwave
+abb=
+url=https://github.com/openhab/org.openhab.binding.zwave
+branch=main

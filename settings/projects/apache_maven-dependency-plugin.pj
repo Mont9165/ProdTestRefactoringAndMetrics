@@ -1,0 +1,4 @@
+name=apache_maven-dependency-plugin
+abb=
+url=https://github.com/apache/maven-dependency-plugin
+branch=master

@@ -1,0 +1,4 @@
+name=jenkinsci_gerrit-trigger-plugin
+abb=
+url=https://github.com/jenkinsci/gerrit-trigger-plugin
+branch=master

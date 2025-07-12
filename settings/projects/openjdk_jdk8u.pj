@@ -1,0 +1,4 @@
+name=openjdk_jdk8u
+abb=
+url=https://github.com/openjdk/jdk8u
+branch=master
